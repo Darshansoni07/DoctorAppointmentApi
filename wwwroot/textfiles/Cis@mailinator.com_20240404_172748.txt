@@ -1,0 +1,11 @@
+Date: 4/4/2024 5:27:48 PM
+Name: Nilesh Devda
+Gender: Male
+Email: Cis@mailinator.com
+BP: 90
+Heart Rate: 220
+Sugar: 80
+Description: Hair falling due to eating junk food 
+Address: Nand Bag, Indore, M.P.
+Medicine: DegistiveFit, Acitone, liquid serum
+Doctor: 

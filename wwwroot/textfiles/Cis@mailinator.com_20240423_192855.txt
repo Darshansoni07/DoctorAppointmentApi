@@ -1,0 +1,11 @@
+Date: 4/23/2024 7:28:55 PM
+Name: Nilesh Devda
+Gender: Male
+Email: Cis@mailinator.com
+BP: 80
+Heart Rate: 120
+Sugar: 90
+Description: headache
+Address: Nand Bag, Indore, M.P.
+Medicine: crocine
+Doctor: Dr. Darshan Soni

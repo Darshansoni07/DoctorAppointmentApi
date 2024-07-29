@@ -1,0 +1,11 @@
+Date: 7/29/2024 12:10:45 PM
+Name: Nilesh Devda
+Gender: Male
+Email: Cis@mailinator.com
+BP: 50
+Heart Rate: 220
+Sugar: 60
+Description: Heart high 
+Address: Nand Bag, Indore, M.P.
+Medicine: goli
+Doctor: Dr. Kuldeep Yadav
